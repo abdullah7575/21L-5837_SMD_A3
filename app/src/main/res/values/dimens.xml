@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="update_product_margin">20dp</dimen>
+    <dimen name="update_product_textSize">20sp</dimen>
+    <dimen name="title_marginStart">10dp</dimen>
+    <dimen name="product_item_design_mb_parent">10dp</dimen>
+    <dimen name="card_corner_radius">30dp</dimen>
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="ll_margin">8dp</dimen>
+    <dimen name="product_title_text_size">16sp</dimen>
+    <dimen name="iv_edit_padding">10dp</dimen>
+    <dimen name="iv_de_padding">10dp</dimen>
+    <dimen name="scheduled_product_textSize">30sp</dimen>
+    <dimen name="scheduled_product_mt">20dp</dimen>
+    <dimen name="lv_textSize">20sp</dimen>
+    <dimen name="lv_mt">90dp</dimen>
+    <dimen name="new_order_textSize">30sp</dimen>
+    <dimen name="new_order_mt">20dp</dimen>
+    <dimen name="frag_padding">20dp</dimen>
+    <dimen name="delievered_textSize">30sp</dimen>
+    <dimen name="delievered_mt">20dp</dimen>
+</resources>

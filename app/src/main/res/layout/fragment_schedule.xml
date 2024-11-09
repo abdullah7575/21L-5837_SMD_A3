@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/frag_padding"
+    tools:context=".ScheduleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="top"-->
+<!--        android:layout_marginLeft="100dp"-->
+<!--        android:textSize="30sp"-->
+<!--        android:text="Scheduled Orders"-->
+<!--        />-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scheduled_products"
+        android:textSize="@dimen/scheduled_product_textSize"
+        android:textColor="#ECB365"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/scheduled_product_mt"
+        android:gravity="center"
+        />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/lv_textSize"
+        android:id="@+id/lvScheduledList"
+        android:layout_marginTop="@dimen/lv_mt"
+        />
+
+
+</FrameLayout>

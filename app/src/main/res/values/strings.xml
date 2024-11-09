@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Navigation_SMD_7A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_product">Update Product</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_date">Date</string>
+    <string name="enter_price">Price</string>
+    <string name="delievered_products">Delievered Products</string>
+    <string name="new_order_products">New Order Products</string>
+    <string name="scheduled_products">Scheduled Products</string>
+    <string name="product_title_text">Product Title</string>
+    <string name="product_price_text">Product Price</string>
+    <string name="product_date_text">Product date</string>
+    <string name="new_product_heading">New Product</string>
+    <string name="enter_title_new">Enter Title</string>
+    <string name="price_new">Price</string>
+    <string name="date_new">Date</string>
+</resources>
